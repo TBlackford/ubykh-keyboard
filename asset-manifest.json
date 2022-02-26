@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ubykh-keyboard/static/css/main.d18b260d.css",
+    "main.js": "/ubykh-keyboard/static/js/main.a6738d91.js",
+    "static/js/787.c27315fc.chunk.js": "/ubykh-keyboard/static/js/787.c27315fc.chunk.js",
+    "index.html": "/ubykh-keyboard/index.html",
+    "main.d18b260d.css.map": "/ubykh-keyboard/static/css/main.d18b260d.css.map",
+    "main.a6738d91.js.map": "/ubykh-keyboard/static/js/main.a6738d91.js.map",
+    "787.c27315fc.chunk.js.map": "/ubykh-keyboard/static/js/787.c27315fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18b260d.css",
+    "static/js/main.a6738d91.js"
+  ]
+}
